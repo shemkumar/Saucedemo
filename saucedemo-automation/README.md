@@ -26,7 +26,7 @@ This repository contains an automated testing suite for the [SauceDemo](https://
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/saucedemo-qa-automation.git
+   git clone https://github.com/shemkumar/saucedemo/saucedemo-qa-automation.git
    cd saucedemo-qa-automation
    ```
 
