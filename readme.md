@@ -405,7 +405,7 @@ Automated test suite for SauceDemo using Playwright.
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/sauce-demo-automation.git
+   git clone https://github.com/shemkumar/saucedemo.git
    cd sauce-demo-automation
    ```
 
