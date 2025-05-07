@@ -154,10 +154,6 @@ The repository includes GitHub Actions workflow for automated test execution:
 - Average test run time: 47.3 seconds
 - Overall pass rate: 97.1% (34/35 tests)
 
-## 📹 Demo Videos
-
-- [Headed Test Execution Demo](https://yourusername.github.io/saucedemo-qa-automation/demos/headed-execution.mp4)
-- [Headless Test Execution Demo](https://yourusername.github.io/saucedemo-qa-automation/demos/headless-execution.mp4)
 
 ## 📄 License
 
